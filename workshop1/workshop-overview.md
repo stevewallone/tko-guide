@@ -23,5 +23,5 @@ This workshop helps you to get some good understanding on below topics:
 For more info you can refer to: 
 
 ```dashboard:open-url
-url: https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html
+https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html
 ```
