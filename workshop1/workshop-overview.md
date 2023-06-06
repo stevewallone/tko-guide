@@ -20,8 +20,5 @@ This workshop helps you to get some good understanding on below topics:
 - Lab 8 - [Automation using Terraform](./08-TMC-Terraform.md)
 
 
-For more info you can refer to: 
+For more info you can refer to [VMware Tanzu Kubernetes Grid 1.5 Documentation](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html)
 
-```dashboard:open-url
-https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html
-```
